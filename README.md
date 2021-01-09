@@ -1,2 +1,3 @@
 # sred
+#er
 <? phpinfo(); ?>
