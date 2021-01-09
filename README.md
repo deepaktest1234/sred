@@ -1,2 +1,2 @@
 # sred
-test1
+<? phpinfo(); ?>
