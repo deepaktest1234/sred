@@ -1,3 +1,3 @@
 # sred
 #er
-<? phpinfo(); ?>
+after update
